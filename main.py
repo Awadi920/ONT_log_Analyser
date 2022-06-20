@@ -3,7 +3,7 @@ import pandas as pd
 import pickle
 from sklearn.preprocessing import LabelEncoder
 import time
-import streamlit_authenticator as stauth
+
 from pathlib import Path
 import os
 import sqlite3

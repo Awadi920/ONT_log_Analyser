@@ -35,7 +35,7 @@ def save_uploaded_file(uploadedfile):
 
 def main():
     #settings Admin Account
-names = ["Mohamed Amine"]
+    names = ["Mohamed Amine"]
     usernames = ["Admin"]
 
     # load hashed passwords
